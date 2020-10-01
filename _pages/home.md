@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-The Information Systems Laboratory (ISLab) operates as a part of the Business Administration Department of the University of Macedonia   [University of Macedonia](http://www.uom.gr) and it is directed by Prof. Konstantinos Tarabanis. Our aim is to explore and understand ++ .
+The Information Systems Laboratory (ISLab) operates as a part of the Business Administration Department of the [University of Macedonia](http://www.uom.gr) and it is directed by Prof. Konstantinos Tarabanis. Our aim is to explore and understand ++ .
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
