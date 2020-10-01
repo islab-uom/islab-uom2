@@ -59,9 +59,9 @@ The Information Systems Laboratory (ISLab) operates as a part of the Business Ad
 
 
 
-To this end, we develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom. We want to be able to build the perfect instruments to answer the  scientific questions we deem most important (see [Research](research)).
+The laboratory established by law in 2004 (Β/1630/2-11-2004) and until now it has coordinated 9 EU-funded research projects (under H2020, FP7, FP6, and FP5 programs), 5 of which were in the field of eGovernment. Moreover, ISLab has participated in 21 EU–funded research projects on the digital transformation of the Public Sector (e.g., the once only principle, governance models for the public sector, public service co-creation, etc.) as well as on the implementation of state-of-the-art technologies (e.g. HPC, Artificial Intelligence, Cloud Computing, Semantics, Big Data) in various problem areas and industries (e.g. Health and Agriculture). Finally, ISLab has been involved in more than 50 nationally-funded research projects.
 
-We are located at Leiden University, the birthplace of superconductivity and home to Kamerlingh Onnes, Lorentz, Huygens, Einstein, de Sitter, and others (see e.g. [the wall of signatures from Ehrenfest lecturers](https://www.lorentz.leidenuniv.nl/history/colloquium/muur_heel.html)). We exchange ideas and work with our neighbors from [Quantum Matter & Optics](http://www.physics.leidenuniv.nl/qo-home), as well as with the colleagues from our [world-class theory section](https://www.lorentz.leidenuniv.nl).
+The Information Systems Laboratory (ISLab) operates in the premises of the Business Administration Department of the University of Macedonia. However, the laboratory works closely with the [Research and Technology – Hellas (CERTH)](https://www.certh.gr)in Thessaloniki, Greece.
 
  **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
@@ -69,8 +69,8 @@ We are located at Leiden University, the birthplace of superconductivity and hom
 We are grateful for funding from Leiden University, [NWO](www.nwo.nl) ([Vidi talent scheme](http://www.nwo.nl/en/research-and-results/programmes/Talent+Scheme) and the [Frontiers in Nanoscience program](https://www.universiteitleiden.nl/en/research/research-projects/science/frontiers-of-nanoscience-nanofront)), and from an [ERC starting grant](https://erc.europa.eu/funding/starting-grants).
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/islab.png" style="width: 190px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/UOMLOGOEN.jpg" style="width: 100px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Certh-logo.png" style="width: 190px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/islab.png" style="width: 200px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/UOMLOGOEN.jpg" style="width: 110px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Certh-logo.png" style="width: 200px">
  
 </figure>
