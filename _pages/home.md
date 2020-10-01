@@ -70,7 +70,7 @@ We are grateful for funding from Leiden University, [NWO](www.nwo.nl) ([Vidi tal
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/islab wide.png" style="width: 180px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/UOMLOGOEN.jpg" style="width: 130px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Certh-logo.png" style="width: 150px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/UOMLOGOEN.jpg" style="width: 140px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Certh-logo.png" style="width: 170px">
  
 </figure>
