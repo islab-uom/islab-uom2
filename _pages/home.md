@@ -1,12 +1,12 @@
 ---
-title: "Allan Lab - Home"
+title: "ISLab - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "ISLab at University of Macedonia."
 sitemap: false
 permalink: /
 ---
 
-We are a dynamic research group at the [Leiden Institute of Physics](http://www.physics.leidenuniv.nl). Our aim is to explore and understand [quantum materials](http://condensedconcepts.blogspot.nl/2013/05/what-is-quantum-matter.html), including strange metals, high-temperature superconductors, and quantum critical electron matter.
+The Information Systems Laboratory (ISLab) operates as a part of the Business Administration Department of the University of Macedonia   [University of Macedonia](http://www.uom.gr) and it is directed by Prof. Konstantinos Tarabanis. Our aim is to explore and understand ++ .
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
