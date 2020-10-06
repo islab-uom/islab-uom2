@@ -57,11 +57,9 @@ The Information Systems Laboratory (ISLab) operates as a part of the Business Ad
 </div>
 
 
-ISLab conducts and partakes research into Information Systems including data management issues as well as data-related issues from the fields of data mining/machine learning, information retrieval, internet and cloud data management, business process management, web semantics, scientific computing, and data science. ISLab also focuses on application domains such as public administration and eGovernment, social inclusion and eParticipation, eLearning, health, and precision agriculture and livestock farming.
+The laboratory established by law in 2004 and conducts and partakes research into Information Systems including data management issues as well as data-related issues from the fields of data mining/machine learning, information retrieval, internet and cloud data management, business process management, web semantics, scientific computing, and data science. ISLab also focuses on application domains such as public administration and eGovernment, social inclusion and eParticipation, eLearning, health, and precision agriculture and livestock farming. It has coordinated nine (9) and participated in more than 20 competitive EU-funded research projects under H2020, FP7, FP6, and FP5 programs (see Research).
 
 ISLab works closely with a large number of major academic institutions, research centres, companies, and public organisations both locally and across Europe, to develop and apply innovative solutions using state-of-the-art technologies.
-
-The laboratory established by law in 2004 and until now it has coordinated nine (9) and participate in more than 20 competitive EU-funded research projects under H2020, FP7, FP6, and FP5 programs (see Research).
 
 The laboratory operates in the premises of the Business Administration Department of the University of Macedonia. However, the laboratory works closely with the [Research and Technology – Hellas (CERTH)](https://www.certh.gr) in Thessaloniki, Greece.
 
