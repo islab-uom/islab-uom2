@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-The Information Systems Laboratory (ISLab) operates as a part of the Business Administration Department of the [University of Macedonia](http://www.uom.gr) and it is directed by Prof. Konstantinos Tarabanis.
+The Information Systems Laboratory (ISLab) operates as a part of the Business Administration Department of the [University of Macedonia] (http://www.uom.gr) and it is directed by Prof. Konstantinos Tarabanis.
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
@@ -57,11 +57,11 @@ The Information Systems Laboratory (ISLab) operates as a part of the Business Ad
 </div>
 
 
-The laboratory established by law in 2004 (Β/1630/2-11-2004) and until now it has coordinated 9 EU-funded research projects (under H2020, FP7, FP6, and FP5 programs), 5 of which were in the field of eGovernment. 
+ISLab conducts and partakes research into Information Systems including data management issues as well as data-related issues from the fields of data mining/machine learning, information retrieval, internet and cloud data management, business process management, web semantics, scientific computing, and data science. ISLab also focuses on application domains such as public administration and eGovernment, social inclusion and eParticipation, eLearning, health, and precision agriculture and livestock farming.
 
-Moreover, ISLab has participated in 21 EU–funded research projects on the digital transformation of the Public Sector (e.g., the once only principle, governance models for the public sector, public service co-creation, etc.) as well as on the implementation of state-of-the-art technologies (e.g. HPC, Artificial Intelligence, Cloud Computing, Semantics, Big Data) in various problem areas and industries (e.g. Health and Agriculture). 
+ISLab works closely with a large number of major academic institutions, research centres, companies, and public organisations both locally and across Europe, to develop and apply innovative solutions using state-of-the-art technologies.
 
-Finally, ISLab has been involved in more than 50 nationally-funded research projects.
+The laboratory established by law in 2004 and until now it has coordinated nine (9) and participate in more than 20 competitive EU-funded research projects under H2020, FP7, FP6, and FP5 programs (see Research).
 
 The Information Systems Laboratory (ISLab) operates in the premises of the Business Administration Department of the University of Macedonia. However, the laboratory works closely with the [Research and Technology – Hellas (CERTH)](https://www.certh.gr)in Thessaloniki, Greece.
 
