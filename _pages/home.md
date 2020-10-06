@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-The Information Systems Laboratory (ISLab) operates as a part of the Business Administration Department of the [University of Macedonia] (http://www.uom.gr) and it is directed by Prof. Konstantinos Tarabanis.
+The Information Systems Laboratory (ISLab) operates as a part of the Business Administration Department of the [University of Macedonia](http://www.uom.gr) and it is directed by Prof. Konstantinos Tarabanis.
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
@@ -63,7 +63,7 @@ ISLab works closely with a large number of major academic institutions, research
 
 The laboratory established by law in 2004 and until now it has coordinated nine (9) and participate in more than 20 competitive EU-funded research projects under H2020, FP7, FP6, and FP5 programs (see Research).
 
-The Information Systems Laboratory (ISLab) operates in the premises of the Business Administration Department of the University of Macedonia. However, the laboratory works closely with the [Research and Technology – Hellas (CERTH)](https://www.certh.gr)in Thessaloniki, Greece.
+The laboratory operates in the premises of the Business Administration Department of the University of Macedonia. However, the laboratory works closely with the [Research and Technology – Hellas (CERTH)](https://www.certh.gr) in Thessaloniki, Greece.
 
  **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** 
 
