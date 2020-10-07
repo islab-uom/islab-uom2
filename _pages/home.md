@@ -37,7 +37,7 @@ The Information Systems Laboratory (ISLab) operates as a part of the Business Ad
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/logos.jpg" alt="Slide 4" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/NoiseCover2.jpg" alt="Slide 5" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SPARQL.jpg" alt="Slide 5" />
         </div>   
          <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Anast.jpg" alt="Slide 6" />
